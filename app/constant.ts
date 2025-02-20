@@ -812,7 +812,8 @@ export const internalAllowedWebDavEndpoints = [
   "https://dav.idrivesync.com",
   "https://webdav.yandex.com",
   "https://app.koofr.net/dav/Koofr",
-  "http://http://47.106.136.18:8080"
+  "http://ilikebug.space",
+  "https://ilikebug.space",
 ];
 
 export const DEFAULT_GA_ID = "G-89WN60ZK2E";
